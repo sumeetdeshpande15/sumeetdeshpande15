@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**sumeetdeshpande15/sumeetdeshpande15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently, I am looking for a full-time role in Data Science, Machine Learning or related field.
 
-Here are some ideas to get you started:
+### Things I'm good at 🔥
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** Python, C++, SQL.
+
+**Libraries and tools:** Numpy, Pandas, Matplotlib, Scikit-Learn, Tensorflow, Keras.
+
+**Data Analysis:** Exploratory Data analysis, 
+
+### How to reach me 📱
+https://api.whatsapp.com/send/?phone=919619704142&text&app_absent=0
+
+
