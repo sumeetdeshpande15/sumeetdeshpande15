@@ -11,6 +11,5 @@ Currently, I am looking for a full-time role in Data Science, Machine Learning o
 **Data Analysis:** Exploratory Data analysis, 
 
 ### How to reach me 📱
-https://api.whatsapp.com/send/?phone=919619704142&text&app_absent=0
 
-
+<a href="https://api.whatsapp.com/send/?phone=919619704142&text&app_absent=0"><img src="https://github.com/sumeetdeshpande15/sumeetdeshpande15/blob/main/images/Whatsapp_logo.png"  width="100"></a> <a href="https://www.linkedin.com/in/sumeetdeshpande15"><img src="https://github.com/sumeetdeshpande15/sumeetdeshpande15/blob/main/images/LinkedIn_logo.png" width="100"></a> <a href="sumeet150621@gmail.com"><img src="https://github.com/sumeetdeshpande15/sumeetdeshpande15/blob/main/images/Gmail-Logo-700x394.png" width="150"></a>
