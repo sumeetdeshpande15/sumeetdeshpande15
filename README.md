@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a BSc.IT graduate of 2017 batch and I've completed my PDG in ML and AI in May,2020 from IIIT-B and UpGrad.
+I'm a BSc.IT graduate of 2017 batch and I've completed my PGD in ML and AI in May,2020 from IIIT-B and UpGrad.
 
 In the past, I have worked with <a href="https://www.cognizant.com/">**Cognizant**</a> as a **Process Executive** in the incident management team. 
 
