@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+<script>
+  var typed = new Typed(".auto-input",{
+  strings: ["Sumeet Deshpande", "Web Developer", "Software Engineer"],typeSpeed: 100, backSpeed: 100, loop: true
+  })
+</script>
+
 I'm a BSc.IT graduate of 2017 batch and I've completed my PGD in ML and AI in May,2020 from IIIT-Bangalore and UpGrad.
 
 In the past, I have worked with <a href="https://www.cognizant.com/">**Cognizant**</a> as a **Process Executive** in the incident management team. 
