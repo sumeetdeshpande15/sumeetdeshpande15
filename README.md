@@ -2,15 +2,17 @@
 
 I'm a BSc.IT graduate of 2017 batch and I've completed my PGD in ML and AI in May,2020 from IIIT-Bangalore and UpGrad.
 
-In the past, I have worked with <a href="https://www.cognizant.com/">**Cognizant**</a> as a **Process Executive** in the incident management team. 
+Current, I am working as Junior Backend Developer - Pyhton, Mssql at <a href="https://www.tcs.com/">**TCS**</a> with <a href="https://www.cisco.com/c/en_in/index.html">**TCisco Systems**</a>.
 
-Currently, I am looking for a full-time role in Data Science, Machine Learning or related field.
+In the past, I have worked with <a href="https://www.cognizant.com/">**Cognizant**</a> as a **Process Executive** in the incident management team.
+
+<hr>
 
 ### Things I'm good at 😎 
 
-***Languages:*** Python, C++, SQL.
+***Languages:*** Python, C++, JavaScript, SQL.
 
-***Libraries and tools:*** Numpy, Pandas, Matplotlib, Scikit-Learn, Tensorflow, Keras.
+***Libraries and tools:*** Numpy, Pandas, Matplotlib, Scikit-Learn.
 
 ***Data Analysis:*** Exploratory Data analysis, Data Viualization, Model Development & Evaluation Metrics, Statistics and Probability.
 
