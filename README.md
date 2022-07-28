@@ -10,9 +10,13 @@ In the past, I have worked with <a href="https://www.cognizant.com/">**Cognizant
 
 ### Things I'm good at 😎 
 
-***Languages:*** Python, C++, JavaScript, SQL.
+***Programming Languages:*** Python, C++.
 
-***Libraries and tools:*** Numpy, Pandas, Matplotlib, Scikit-Learn.
+***Libraries and Modules:*** Numpy, Pandas, Matplotlib, Scikit-Learn.
+
+***Web Technologies:*** HTML, CSS, JavaScript(Beginner), React.JS(Beginner), Node.JS(Beginner).
+
+***Database Management Technologies:*** MsSQL.
 
 ***Data Analysis:*** Exploratory Data analysis, Data Viualization, Model Development & Evaluation Metrics, Statistics and Probability.
 
