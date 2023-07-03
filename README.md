@@ -1,24 +1,6 @@
 ### Hi there 👋
 
-I'm a BSc.IT graduate of 2017 batch and I've completed my PGD in ML and AI in May,2020 from IIIT-Bangalore and UpGrad.
-
-Current, I am working as Junior Backend Developer - Python, MsSQl at <a href="https://www.tcs.com/">**TCS**</a> with <a href="https://www.cisco.com/c/en_in/index.html">**Cisco Systems**</a>.
-
-In the past, I have worked with <a href="https://www.cognizant.com/">**Cognizant**</a> as a **Process Executive** in the incident management team.
-
-<hr>
-
-### Things I'm good at 😎 
-
-***Programming Languages:*** Python, C++.
-
-***Libraries and Modules:*** Numpy, Pandas, Matplotlib, Scikit-Learn.
-
-***Web Technologies:*** HTML, CSS, JavaScript(Beginner), React.JS(Beginner), Node.JS(Beginner).
-
-***Database Management Technologies:*** MsSQL.
-
-***Data Analysis:*** Exploratory Data analysis, Data Viualization, Model Development & Evaluation Metrics, Statistics and Probability.
+I am a Full Stack Developer - Python.
 
 <hr>
 
